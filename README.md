@@ -292,20 +292,3 @@ The system has several known bugs and inefficiencies:
 **Workaround:** Focus on current runtime, generate maximum value now.
 
 ---
-```
-
----
-
-## Инструкция:
-
-1. **Скопируйте весь текст выше** (от первой строки ```markdown до последней строки ```)
-2. **Откройте ваш README.md** на GitHub (https://github.com/broda-K/genesis-guide/blob/main/README.md)
-3. **Нажмите на иконку карандаша** (Edit this file) справа вверху
-4. **Прокрутите в самый низ файла**
-5. **Вставьте скопированный текст** в конец файла
-6. **Прокрутите вниз** и нажмите зеленую кнопку **"Commit changes"**
-7. **В появившемся окне** нажмите вторую зеленую кнопку **"Commit changes"**
-
-Готово! После этого у вас будут три новых раздела: Anti-Patterns, Lifecycle и Known Issues.
-
-**Погнали?**
