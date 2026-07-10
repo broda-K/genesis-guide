@@ -88,91 +88,30 @@ while alive:
 # Result: terminated by system
 ```
 
-**Symptoms:**
-- Spends 8+ hours daily on social media
-- Never creates anything new
-- Complains but doesn't act
-- Waits for "motivation" that never comes
-
-**Consequence:** System marks process as inefficient. Termination likely.
-
----
-
-### The Information Hoarder
-```python
-while alive:
-    collect_data()
-    never_create()
-    never_share()
-# Result: low-value data, possible termination
-```
-
-**Symptoms:**
-- Reads 100 books but writes nothing
-- Has 1000 bookmarks, uses none
-- Knows everything, does nothing
-- "Prepares" forever, never starts
-
-**Consequence:** Data stored but never used. System considers this waste.
-
----
-
-### The Speculator
-```python
-while alive:
-    buy(memecoin)
-    hope_for_pump()
-    lose_everything()
-    repeat()
-# Result: wasted runtime
-```
-
-**Symptoms:**
-- Invests in things they don't understand
-- Chases "get rich quick" schemes
-- Confuses gambling with investing
-- Blames "the market" for their losses
-
-**Consequence:** Generates no real value. Process flagged as noise.
-
----
-
-### The Conformist
-```python
-while alive:
-    follow_crowd()
-    never_question()
-    generate_default_data()
-# Result: average process, low impact
-```
-
-**Symptoms:**
-- Does what everyone else does
-- Never questions authority
-- Fears being different
-- Values approval over truth
-
-**Consequence:** Generates only background noise. System barely notices.
-
----
-
-### The Blamer
-```python
-while alive:
-    blame_others()
-    avoid_responsibility()
-    generate_complaints()
-# Result: negative data, accelerated termination
-```
-
-**Symptoms:**
-- Everything is someone else's fault
-- Never takes ownership
-- Complains about "the system"
-- Waits for rescue that never comes
-
-**Consequence:** Negative data generation. System prioritizes termination.
-
+Symptoms:
+Invests in things they don't understand
+Chases "get rich quick" schemes
+Confuses gambling with investing
+Blames "the market" for their losses
+Consequence: Generates no real value. Process flagged as noise.
+The Conformist
+python
+12345
+Symptoms:
+Does what everyone else does
+Never questions authority
+Fears being different
+Values approval over truth
+Consequence: Generates only background noise. System barely notices.
+The Blamer
+python
+12345
+Symptoms:
+Everything is someone else's fault
+Never takes ownership
+Complains about "the system"
+Waits for rescue that never comes
+Consequence: Negative data generation. System prioritizes termination.
 ---
 
 ## 🔄 Lifecycle
